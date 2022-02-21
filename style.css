@@ -1,3 +1,21 @@
+
+body{
+  background-color: blanchedalmond;
+}
+.title{
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: url(Picture-This-2020-oproep-website-banner-1-1500x430.jpg);
+   font-size: 65px; 
+   font-weight: bold; 
+   letter-spacing: 1px; 
+   line-height: -1; 
+   text-align: center; 
+
+  
+  
+}
 p {
-  font-family: Arial, Helvetica, sans-serif;
+ border: 1vh;
+  font-family: cursive, Helvetica, sans-serif;
 }
