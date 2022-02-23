@@ -11,9 +11,11 @@ background-image: url(Picture-This-2020-oproep-website-banner-1-1500x430.jpg);
    letter-spacing: 1px; 
    line-height: -1; 
    text-align: center; 
-
   
-  
+}
+.data{
+ align-items: center;
+ 
 }
 p {
  border: 1vh;
